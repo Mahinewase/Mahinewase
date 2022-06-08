@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahinewase
+- 👋 Hi, I’m @Maheshnewase
 - 👀 I’m interested in playing cricket
 - 🌱 I’m currently learning cloud.
 - 💞️ I’m looking to collaborate on github.
